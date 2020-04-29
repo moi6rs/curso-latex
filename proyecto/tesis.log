@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 16:13
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -326,20 +326,38 @@ Package pdftex.def Info: imagenes/logo-umss.png  used on input line 9.
 
 
 
-] [4
+] (tesis.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `tesis.toc'.
+
+ [4
 
 
 ]
 \openout2 = `capitulos/introduccion.aux'.
 
- (capitulos/introduccion.tex
+
+(capitulos/introduccion.tex
 Cap\'{\i }tulo 1.
 ) [1
 
 
+
 ]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [2]
 \openout2 = `capitulos/previos.aux'.
 
@@ -353,8 +371,8 @@ Cap\'{\i }tulo 2.
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
  [4])
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
  [5]
 \openout2 = `capitulos/teoria_de_la_medida.aux'.
 
@@ -383,8 +401,8 @@ Cap\'{\i }tulo 5.
 
 
 ])
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
  [10]
 \openout2 = `capitulos/minimizacion_del_error.aux'.
 
@@ -395,8 +413,8 @@ Cap\'{\i }tulo 6.
 
 
 ])
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
  [12] (tesis.aux (caratula.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -406,28 +424,30 @@ LaTeX Info: Redefining \% on input line 8.
 (capitulos/teoria_de_probabilidades.aux) (capitulos/aprendizaje_estadistico.aux
 ) (capitulos/minimizacion_del_error.aux)) ) 
 Here is how much of TeX's memory you used:
- 5199 strings out of 480930
- 79009 string characters out of 2909544
- 600603 words of memory out of 3000000
- 20952 multiletter control sequences out of 15000+200000
- 541764 words of font info for 37 fonts, out of 3000000 for 9000
+ 5250 strings out of 480930
+ 79748 string characters out of 2909544
+ 600683 words of memory out of 3000000
+ 20980 multiletter control sequences out of 15000+200000
+ 546887 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,43p,224b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,43p,224b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\ramseg\AppData\Local\MiKT
 eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\ramseg\AppData
-\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\ram
-seg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C
-:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\ram
+seg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C
+:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc
 1200.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx2488.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecrm1728.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ramseg\AppData\Local\MiKTeX
-\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ramseg\AppData\L
-ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ramse
-g\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
-Output written on tesis.pdf (16 pages, 156070 bytes).
+dpi600\ecti1200.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbx2488.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\ramseg\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ramseg\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ramse
+g\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\
+Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx20
+74.pk>
+Output written on tesis.pdf (16 pages, 171372 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

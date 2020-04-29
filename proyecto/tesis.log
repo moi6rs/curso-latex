@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 16:05
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -349,27 +349,27 @@ Cap\'{\i }tulo 2.
 
 
 
-])
+]
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [4])
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
- [4]
+ [5]
 \openout2 = `capitulos/teoria_de_la_medida.aux'.
 
  (capitulos/teoria_de_la_medida.tex
 Cap\'{\i }tulo 3.
-[5
+[6
 
 
 
-])
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
- [6]
+]) [7]
 \openout2 = `capitulos/teoria_de_probabilidades.aux'.
 
  (capitulos/teoria_de_probabilidades.tex
 Cap\'{\i }tulo 4.
-) [7
+) [8
 
 
 
@@ -378,20 +378,26 @@ Cap\'{\i }tulo 4.
 
  (capitulos/aprendizaje_estadistico.tex
 Cap\'{\i }tulo 5.
-[8
+[9
 
 
 
-]) [9]
+])
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [10]
 \openout2 = `capitulos/minimizacion_del_error.aux'.
 
  (capitulos/minimizacion_del_error.tex
 Cap\'{\i }tulo 6.
-[10
+[11
 
 
 
-]) [11] (tesis.aux (caratula.aux)
+])
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [12] (tesis.aux (caratula.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
  (capitulos/dedicatoria.aux)
@@ -402,7 +408,7 @@ LaTeX Info: Redefining \% on input line 8.
 Here is how much of TeX's memory you used:
  5199 strings out of 480930
  79009 string characters out of 2909544
- 598541 words of memory out of 3000000
+ 600603 words of memory out of 3000000
  20952 multiletter control sequences out of 15000+200000
  541764 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -419,9 +425,9 @@ pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ramseg\AppData\Local\MiKTeX
 \2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ramseg\AppData\L
 ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ramse
 g\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
-Output written on tesis.pdf (15 pages, 144290 bytes).
+Output written on tesis.pdf (16 pages, 156070 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
+ 347 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

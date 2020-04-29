@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 16:49
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -424,10 +424,10 @@ LaTeX Info: Redefining \% on input line 8.
 (capitulos/teoria_de_probabilidades.aux) (capitulos/aprendizaje_estadistico.aux
 ) (capitulos/minimizacion_del_error.aux)) ) 
 Here is how much of TeX's memory you used:
- 5256 strings out of 480930
- 79833 string characters out of 2909544
- 600732 words of memory out of 3000000
- 20986 multiletter control sequences out of 15000+200000
+ 5259 strings out of 480930
+ 79877 string characters out of 2909544
+ 600870 words of memory out of 3000000
+ 20989 multiletter control sequences out of 15000+200000
  546887 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,8n,43p,224b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -445,9 +445,9 @@ ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\ramse
 g\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\
 Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx20
 74.pk>
-Output written on tesis.pdf (16 pages, 172010 bytes).
+Output written on tesis.pdf (16 pages, 173018 bytes).
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
+ 393 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

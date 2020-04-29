@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 17:18
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -391,11 +391,16 @@ Cap\'{\i }tulo 3.
 
  (capitulos/teoria_de_probabilidades.tex
 Cap\'{\i }tulo 4.
+<imagenes/arqui_angular.png, id=50, 526.96875pt x 268.00125pt>
+File: imagenes/arqui_angular.png Graphic file (type png)
+<use imagenes/arqui_angular.png>
+Package pdftex.def Info: imagenes/arqui_angular.png  used on input line 8.
+(pdftex.def)             Requested size: 263.48372pt x 134.00029pt.
 ) [8
 
 
 
-]
+ <./imagenes/arqui_angular.png>]
 \openout2 = `capitulos/aprendizaje_estadistico.aux'.
 
  (capitulos/aprendizaje_estadistico.tex
@@ -428,10 +433,10 @@ LaTeX Info: Redefining \% on input line 8.
 (capitulos/teoria_de_probabilidades.aux) (capitulos/aprendizaje_estadistico.aux
 ) (capitulos/minimizacion_del_error.aux)) ) 
 Here is how much of TeX's memory you used:
- 5409 strings out of 480930
- 81728 string characters out of 2909544
- 603551 words of memory out of 3000000
- 21134 multiletter control sequences out of 15000+200000
+ 5416 strings out of 480930
+ 81907 string characters out of 2909544
+ 603617 words of memory out of 3000000
+ 21140 multiletter control sequences out of 15000+200000
  547651 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,11n,43p,224b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -450,9 +455,9 @@ g\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\
 Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx14
 40.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dp
 i600\ecbx2074.pk>
-Output written on tesis.pdf (16 pages, 175697 bytes).
+Output written on tesis.pdf (16 pages, 282279 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
+ 403 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

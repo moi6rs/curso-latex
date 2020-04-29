@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 11:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  29 APR 2020 11:37
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -259,29 +259,35 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 
 \openout2 = `caratula.aux'.
 
-(caratula.tex [1
+(caratula.tex
+<imagenes/logo-umss.png, id=1, 397.485pt x 513.92pt>
+File: imagenes/logo-umss.png Graphic file (type png)
+<use imagenes/logo-umss.png>
+Package pdftex.def Info: imagenes/logo-umss.png  used on input line 9.
+(pdftex.def)             Requested size: 99.371pt x 128.47968pt.
+ [1
 
 
 
-{C:/Users/ramseg/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (tesis.au
-x (caratula.aux)
+{C:/Users/ramseg/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imagenes
+/logo-umss.png>]) (tesis.aux (caratula.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4015 strings out of 480930
- 52450 string characters out of 2909544
+ 4023 strings out of 480930
+ 52605 string characters out of 2909544
  304801 words of memory out of 3000000
- 19860 multiletter control sequences out of 15000+200000
+ 19865 multiletter control sequences out of 15000+200000
  536493 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,4n,35p,259b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,7n,35p,259b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbx1440.pk> <C:\Users\ramseg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
 en/ec/dpi600\ecbx2074.pk>
-Output written on tesis.pdf (1 page, 14425 bytes).
+Output written on tesis.pdf (1 page, 36074 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
